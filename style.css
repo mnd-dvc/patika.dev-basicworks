@@ -1,0 +1,13 @@
+body{
+    background: url(background3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1, h2, h3, h4{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
